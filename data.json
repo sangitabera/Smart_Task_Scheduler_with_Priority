@@ -1,0 +1,10 @@
+[
+    {
+        "title": "New task",
+        "description": "very important task to complete.",
+        "priority": 2,
+        "deadline": "2026-03-09T00:00:00",
+        "created_at": null,
+        "status": "Completed"
+    }
+]
